@@ -1,18 +1,13 @@
 # Get Icons  from : https://fontawesome.com/icons
 # Get Colors from : https://brandcolors.net/
 
-behance:
-  url   : https://www.behance.net/
-  icon  : fab fa-behance
-  color : 1769ff
-
 dribbble:
   url   : https://dribbble.com/
   icon  : fab fa-dribbble
   color : 444444
 
 email:
-  url   : "mailto:"
+  url   : "mailto:yadavsudhanshu1824@gmail.com"
   icon  : fas fa-envelope
   color : db4437
 
@@ -22,7 +17,7 @@ facebook:
   color : 3b5998
 
 github:
-  url   : https://www.github.com/
+  url   : https://www.github.com/yadav18s
   icon  : fab fa-github
   color : 333333
 
@@ -32,12 +27,12 @@ gitlab:
   color : fca326
 
 instagram:
-  url   : https://www.instagram.com/
+  url   : https://www.instagram.com/sudhanshuy18
   icon  : fab fa-instagram
   color : 405de6
 
 linkedin:
-  url   : https://www.linkedin.com/in/
+  url   : https://www.linkedin.com/in/sudhanshu-yadav-7a82651a6
   icon  : fab fa-linkedin-in
   color : 007bb5
 
